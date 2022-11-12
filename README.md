@@ -1,6 +1,6 @@
 
 
-# gui-math-question-generator
+# math-question-generator
 
 This is a program that can time you on solving generic math problems. It can ask you how many problems you want to solve and will give you random addition, subtraction, multiplication, or division problems.
 
